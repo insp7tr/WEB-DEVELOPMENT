@@ -1,8 +1,6 @@
 # WEB-DEVELOPMENT
 
-Back-End stores all my backend projects
-  - Node.JS
-  - PHP
+Full-Stack stores all my frontend+backend projects
   
 Front-End stores all my frontend projects
   - HTML & CSS
